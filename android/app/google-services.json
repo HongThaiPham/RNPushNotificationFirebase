@@ -1,0 +1,83 @@
+{
+  "project_info": {
+    "project_number": "446718001684",
+    "firebase_url": "https://leochat-e8d87.firebaseio.com",
+    "project_id": "leochat-e8d87",
+    "storage_bucket": "leochat-e8d87.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:446718001684:android:2db73da82ce55905",
+        "android_client_info": {
+          "package_name": "com.leosoft.leotestfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "446718001684-sn9n85auu792sgbjc31n40m6ucjs66qu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnvZXaFb6UdzZU4UJ-twqPjruCGG1Tj-Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "446718001684-sn9n85auu792sgbjc31n40m6ucjs66qu.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "446718001684-ftl5kl4m1ec94q98qioqml3e7t2sdao5.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.leosoft.rnpushnotificationfirebase"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:446718001684:android:50059b3eec62201e",
+        "android_client_info": {
+          "package_name": "com.leosoft.rnpushnotificationfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "446718001684-sn9n85auu792sgbjc31n40m6ucjs66qu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnvZXaFb6UdzZU4UJ-twqPjruCGG1Tj-Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "446718001684-sn9n85auu792sgbjc31n40m6ucjs66qu.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "446718001684-ftl5kl4m1ec94q98qioqml3e7t2sdao5.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.leosoft.rnpushnotificationfirebase"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
